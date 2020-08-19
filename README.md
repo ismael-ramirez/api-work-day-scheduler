@@ -10,4 +10,5 @@ is easy to navigate.
 
 
 
-Repository contains quality README file with description, screenshot, and link to deployed application
+http://github.com - automatic!
+[GitHub](http://github.com)
