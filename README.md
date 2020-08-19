@@ -11,4 +11,4 @@ is easy to navigate.
 
 
 https://ismael-ramirez.github.io/api-work-day-scheduler/ - Link to deployed application!
-[GitHub](http://github.com)
+
