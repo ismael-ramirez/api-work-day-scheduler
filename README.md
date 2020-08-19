@@ -10,5 +10,5 @@ is easy to navigate.
 
 
 
-http://github.com - automatic!
+http://github.com - Link to deployed application!
 [GitHub](http://github.com)
